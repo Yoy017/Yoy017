@@ -1,5 +1,5 @@
 ## Hello 👋
 
-My name is Yoann.
+I'm Yoann, a second-year student at HEIG-VD. On the side, I'm working with friends on an exciting (and massive) project to create our own custom Minecraft game.
 
-I'm currently at my second year at the HEIG-VD. Also I work on a side *(huge)* project with friends creating our own Minecraft custom game.
+Always eager to learn and improve every day!
